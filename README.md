@@ -1,0 +1,1 @@
+Synergy test for Pycharm and Github.
